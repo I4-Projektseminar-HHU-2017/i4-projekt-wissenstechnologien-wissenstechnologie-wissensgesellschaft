@@ -1,2 +1,0 @@
-# i4-projekt-wissenstechnologien-wissenstechnologie-wissensgesellschaft
-i4-projekt-wissenstechnologien-wissenstechnologie-wissensgesellschaft created by GitHub Classroom
