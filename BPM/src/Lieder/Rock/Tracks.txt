@@ -1,0 +1,10 @@
+01	Sgt Pepper's Lonely Hearts Club Band	The Beatles 		1967
+02	Bridge Over Troubled Water				Simon & Garfunkel	1970
+03	Thriller								Michael Jackson		1982
+04	Ironic			 						Alanis Morissette	1995
+05	Elephant								The White Stripes	2003
+06	Savior									Rise Against		2010
+07	Gold On The Ceiling						The Black Keys		2012
+08	Do I Wanna Know?						Arctic Monkeys		2014
+09	Breathing Lightning						ANTHRAX				2016
+10	Believer								Imagine Dragons		2017
